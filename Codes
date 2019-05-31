@@ -1,1 +1,6 @@
-local Codes = {["Coins"] = {Currency = "Coins", Amount = 500}}
+{
+	"Coins": [{
+		"Currency": "Coins",
+	  	"Amount": "500"
+	}]
+}
