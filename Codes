@@ -3,6 +3,10 @@
 		"Currency": "Coins",
 	  	"Amount": "500"
 	},
+	"Chicken": {
+		"Currency": "Coins",
+	  	"Amount": "100"
+	},
 	"Gems": {
 		"Currency": "Gems",
 	  	"Amount": "100"
