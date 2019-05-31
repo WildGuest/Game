@@ -1,13 +1,13 @@
 {
-	"Coins": {
+	"coins": {
 		"Currency": "Coins",
 	  	"Amount": "500"
 	},
-	"Chicken": {
+	"chicken": {
 		"Currency": "Coins",
 	  	"Amount": "100"
 	},
-	"Gems": {
+	"gems": {
 		"Currency": "Gems",
 	  	"Amount": "100"
 	}
