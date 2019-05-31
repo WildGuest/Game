@@ -1,6 +1,1 @@
-{
-	"Coins": [{
-		"Currency": "Coins",
-	  	"Amount": "500"
-	}]
-}
+{"GEMS":["Gems",25]}
