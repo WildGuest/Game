@@ -1,14 +1,6 @@
 {
-	"coins": {
-		"Currency": "Coins",
-	  	"Amount": "500"
-	},
-	"chicken": {
-		"Currency": "Coins",
-	  	"Amount": "100"
-	},
 	"gems": {
 		"Currency": "Gems",
-	  	"Amount": "100"
+	  	"Amount": "75"
 	}
 }
