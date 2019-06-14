@@ -2,5 +2,9 @@
 	"gems": {
 		"Currency": "Gems",
 	  	"Amount": "75"
+	},
+	"coins": {
+		"Currency": "Coins",
+	  	"Amount": "300"
 	}
 }
